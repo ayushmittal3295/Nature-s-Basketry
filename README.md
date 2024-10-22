@@ -1,7 +1,7 @@
 # NATURE'S BASKITRY WEBSITE
 This website Nature's Baskitry is a responsive website.
-This website is made with the aim of providing fruits and vegetables to the persons at their designated places. In this website
-It covers some frontend concepts like responsiveness,js etc
+This website is made with the aim of providing fruits and vegetables to the persons at their designated places. 
+This website covers some frontend concepts like responsiveness,js etc
 
 # DOCUMENT OBJECT MODEL
 The Document Object Model (DOM) in JavaScript is a programming interface for web documents. It represents the structure of a document as a tree of objects, where each node is an object representing a part of the document, such as an element, attribute, or text.
