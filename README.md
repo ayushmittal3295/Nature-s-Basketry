@@ -1,6 +1,8 @@
 # NATURE'S BASKITRY WEBSITE
 This website Nature's Baskitry is a responsive website.
+
 This website is made with the aim of providing fruits and vegetables to the persons at their designated places. 
+
 This website covers some frontend concepts like responsiveness,js etc
 
 # DOCUMENT OBJECT MODEL
@@ -34,22 +36,26 @@ In JavaScript, events are actions or occurrences that happen in the browser, whi
 .dblclick: Triggered when an element is double-clicked.
 
 .mouseenter, mouseleave: Triggered when the mouse enters or leaves an element.
+
 .mousemove: Triggered when the mouse is moved over an element.
 
 
 2.Keyboard Events:
 
 .keydown: Triggered when a key is pressed.
+
 .keyup: Triggered when a key is released.
 
 Form Events:
 
 .submit: Triggered when a form is submitted.
+
 .change: Triggered when the value of an input element changes.
 
 4.Window Events:
 
 .load: Triggered when the entire page is loaded.
+
 .resize: Triggered when the browser window is resized.
 
 # RESPONSIVENESS OF A WEBSITE
