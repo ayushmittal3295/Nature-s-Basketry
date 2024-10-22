@@ -1,0 +1,76 @@
+/* Default styling (for desktop and larger screens) */
+/* Styling for tablets (screen width up to 768px) */
+@media (max-width: 768px) {
+    header {
+        text-align: center;
+        padding: 1em;
+    }
+
+    .search-container,
+    .user-location-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product {
+        width: 100%;
+        margin-bottom: 1em;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin-bottom: 0.5em;
+    }
+}
+
+/* Styling for mobile devices (screen width up to 480px) */
+@media (max-width: 480px) {
+    header {
+        text-align: center;
+        padding: 0.5em;
+    }
+
+    .search-container,
+    .user-location-container {
+        width: 100%;
+        padding: 0 1em;
+    }
+
+    .product-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product {
+        width: 100%;
+        margin-bottom: 1em;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin-bottom: 0.5em;
+    }
+
+    footer .social-links a {
+        display: inline-block;
+        margin: 0.5em;
+    }
+}
