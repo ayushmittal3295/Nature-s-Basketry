@@ -9,7 +9,9 @@ The Document Object Model (DOM) in JavaScript is a programming interface for web
 # Key Concepts of the DOM:
 
 1.Nodes and Elements: The DOM represents a document as a hierarchy of nodes. The most common types of nodes are elements, which are HTML tags.
+
 2.DOM Tree: The structure of an HTML document is represented as a tree of nodes. The document is the root node, and all HTML elements are child nodes connected in a hierarchical structure.
+
 3.Accessing and Modifying Elements: Using JavaScript, you can access and manipulate DOM elements. Common methods include:
 
 .document.getElementById(id): Selects an element by its ID.
