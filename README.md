@@ -1,4 +1,4 @@
-# Nature's Baskitry Website
+# NATURE'S BASKITRY WEBSITE
 This website Nature's Baskitry is a responsive website.
 This website is made with the aim of providing fruits and vegetables to the persons at their designated places. In this website
 It covers some frontend concepts like responsiveness,js etc
@@ -20,7 +20,7 @@ The Document Object Model (DOM) in JavaScript is a programming interface for web
 # EVENTS
 In JavaScript, events are actions or occurrences that happen in the browser, which the browser can respond to. These can be user actions like clicking a button, typing in a text box, or moving the mouse. Here are some key concepts and examples of using events in JavaScript:
 
-# COMMAN EVENT TYPES
+# Comman event type
 
 1.Mouse Events:
 
