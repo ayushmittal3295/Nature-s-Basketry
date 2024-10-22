@@ -15,8 +15,11 @@ The Document Object Model (DOM) in JavaScript is a programming interface for web
 3.Accessing and Modifying Elements: Using JavaScript, you can access and manipulate DOM elements. Common methods include:
 
 .document.getElementById(id): Selects an element by its ID.
+
 .document.getElementsByClassName(className): Selects elements by their class name.
+
 .document.querySelector(selector): Selects the first element that matches a CSS selector.
+
 .document.createElement(tagName): Creates a new element.
 
 # EVENTS
@@ -27,9 +30,12 @@ In JavaScript, events are actions or occurrences that happen in the browser, whi
 1.Mouse Events:
 
 .click: Triggered when an element is clicked.
+
 .dblclick: Triggered when an element is double-clicked.
+
 .mouseenter, mouseleave: Triggered when the mouse enters or leaves an element.
 .mousemove: Triggered when the mouse is moved over an element.
+
 
 2.Keyboard Events:
 
