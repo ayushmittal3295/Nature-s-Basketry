@@ -1,5 +1,5 @@
-# NATURE'S BASKITRY WEBSITE
-This website Nature's Baskitry is a responsive website.
+# NATURE'S BASKETRY WEBSITE
+This website Nature's Basketry is a responsive website.
 
 This website is made with the aim of providing fruits and vegetables to the persons at their designated places. 
 
